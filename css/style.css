@@ -1,23 +1,32 @@
 body{
-    background-color: pink;
+    background-color: #f4c2e7;
 }
 
 h1 {
     font-weight: bolder;
     font-size: 50px;
+    color: #d8f5f0
 }
 
 h2 {
-    font-weight: light;
-    font-size: 20px;
+    font-weight: bold;
+    font-size: 30px;
     text-decoration: underline;
 }
 
 p {
-    font-family: Courier;
+    font-family: Helvetica;
 }
 
 ul{
-    list-style-type: disc;
+    list-style-type: square;
 }
 
+img {
+    width: 300px;
+    border: solid #4f4cf7;
+}
+
+div {
+    background-color: orange;
+}
